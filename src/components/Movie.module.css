@@ -18,3 +18,8 @@
   margin: 0;
   font-size: 1rem;
 }
+
+.movie button {
+  background-color: blue;
+  margin: 0;
+}
